@@ -128,6 +128,10 @@ nav ul li {
     font-size: 2rem;
 }
 
+.services p {
+    font-size: .8rem;
+}
+
 .us {
     margin-top: 1rem;
 }
@@ -176,6 +180,10 @@ nav ul li {
 
 .mobile .btn {
     margin-top: 2rem;
+    font-size: .7rem;
+    padding: .7rem .9rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
 }
 
 /* Meet the Crew */
@@ -201,6 +209,7 @@ nav ul li {
 
 .apply {
     margin-bottom: 3rem;
+    text-align: center;
 }
 
 /* Footer */
